@@ -11,3 +11,4 @@ Lsta numerada:
 - [x] finalizar a aula
 - [ ] chegar no código
 <img width="1583" height="943" alt="setas" src="https://github.com/user-attachments/assets/36f08663-1003-4b0e-b039-68a1da9d4b32" />
+[Acesse o meu Github https://github.com/AlexsandraGuedesLopes]
